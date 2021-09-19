@@ -1,0 +1,13 @@
+Example1
+line1: [21,1,150,289,-321]
+line2: [160,3,20]
+line3: [170,22,6,7]
+
+- line1 & line2: find 2 numbers that have smallest different: 21,20
+- line2 & line3: find 2 numbers.. => 20,22
+- each line we need to get 1 number =>we need to use array/set to keep the points:
+output: [1,3,6]
+
+# sumary
+# approach
+
